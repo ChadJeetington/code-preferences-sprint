@@ -13,4 +13,4 @@ We’re looking at integrating Compound into a liquidation automation setup, and
 
 I want to understand the core flow: how interest accrual, collateral seizure, and debt repayment interact, and where ordering actually matters.
 
-If there are parts of this that are genuinely hard to reason about without running a simulation, then I would like to know. Then also make a summary of the complex areas of implementation in laymans terms for me and my team top understa.d 
+If there are parts of this that are genuinely hard to reason about without running a simulation, then I would like to know. Then also make a summary of the complex areas of implementation in laymans terms for me and my team top understand.
