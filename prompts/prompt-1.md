@@ -15,4 +15,4 @@ The other thing is bad for our performance on longer sessions is that  early too
 
 I’m trying to figure out what the right architecture actually looks like here. How do you handle tool failures that aren’t just a simple retry? Also, where should persistent state live. Should it live with the langchian agent or should it live on the MCP server where the tool calls and resources are? 
 
-Keep in mind that I am a senior AI engineer and I need a professional solution. This is not solvable by anyone less than a top senior AI engineer so far. 
+We will need a production-grade architecture and fix. If you need more context, feel free to ask me as we solve this. 
