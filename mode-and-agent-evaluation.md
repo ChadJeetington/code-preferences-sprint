@@ -1,7 +1,20 @@
 # Mode & agent evaluation
 
+**Submission repo:** [ChadJeetington/code-preferences-sprint](https://github.com/ChadJeetington/code-preferences-sprint)
+
 **Compared:** Agent A (Claude Sonnet) vs Agent B (Claude Opus)  
-**Details:** Agent A and Agent B ran the exact same starting prompt and only differed in the LLM model. 
+**Details:** Agent A and Agent B ran the exact same starting prompt and only differed in the LLM model.
+
+**Starting prompt:** [Prompt 1](prompts/prompt-1.md) — the text in `prompts/prompt-1.md` (big-picture planning & architecture; LangChain MCP ReAct agent scenario).
+
+**Fork:** [ChadJeetington/langchain](https://github.com/ChadJeetington/langchain).
+
+**Branches:**
+
+- [base-snapshot](https://github.com/ChadJeetington/langchain/tree/base-snapshot)
+- [agent-a](https://github.com/ChadJeetington/langchain/tree/agent-a)
+- [agent-b](https://github.com/ChadJeetington/langchain/tree/agent-b)
+
 **Prompt(s) / logs:** note which prompt(s) and paste locations in `agent-a-log.md` / `agent-b-log.md`.
 
 Start Time PST: 1:24:42 PST
